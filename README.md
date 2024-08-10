@@ -18,7 +18,7 @@ Welcome to the **GitHub User Listing App**! This app allows you to browse GitHub
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/github-user-listing.git
+   git clone https://github.com/hongkkkjjj/github-user-listing.git
    
 2. Navigate to the project directory:
   
